@@ -1,16 +1,16 @@
 ## Olá, eu sou Rodrigo Santos! 👋
 ### Desenvolvedor Web | Front-End 
 <a href="https://rsantosls.github.io/rsantosportfolio/"
-style="font-size:16px; text-decoration: none;" target="_blank">
+style="font-size:16px;" target="_blank">
 Portfólio (Em construção) ⚠️
 </a>
 
 <!-- Aqui coloco uma descrição breve sobre mim -->
-
+<!--
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-
+-->
 <!-- stats -->
 ![RSantosLS GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsantosls&show_icons=true&theme=tokyonight&locale=pt-br)
 
